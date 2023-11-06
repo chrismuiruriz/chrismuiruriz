@@ -2,6 +2,7 @@
 - 👀 I’m interested in ```<SolvingProblems />```
 - 🌱 I’m currently learning ```<BuildingComponentLibraries />```
 
+<br/>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrismuiruriz&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Chris Muiruri" />
 
