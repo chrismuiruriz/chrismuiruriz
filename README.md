@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in ```<SolvingProblems />```
-- 🌱 I’m currently learning ```<BuildingComponentLibraries />```
+- 👀 Interested in ```<SolvingProblems />```
+- 🌱 Currently learning ```<BuildingComponentLibraries />```
 
 <br/>
 <br/>
