@@ -1,8 +1,6 @@
-👋 Hi, I’m Chris
-
-👀 Interested in ```<SolvingProblems />```
-
-🌱 Currently learning ```<BuildingComponentLibraries />```
+- 👋 Hi, I’m Chris
+- 👀 Interested in ```<SolvingProblems />```
+- 🌱 Currently learning ```<BuildingComponentLibraries />```
 
 <!---
 chrismuiruriz/chrismuiruriz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
